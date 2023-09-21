@@ -1,0 +1,4 @@
+
+enum EnumLoadablePaginateState{
+  INIT,LOADING,DONE,LOADING_ADD,ERROR_ADD,ERROR
+}
